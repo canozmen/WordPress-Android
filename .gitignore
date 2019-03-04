@@ -83,3 +83,4 @@ fastlane/screenshots_orig
 # Bundler
 /.bundle
 /vendor
+/fastlane/promo_screenshots
